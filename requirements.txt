@@ -1,0 +1,8 @@
+streamlit
+python-dotenv
+langchain-core
+langchain-community
+langserve
+fastapi
+uvicorn[standard]
+sse_starlette
